@@ -1,1 +1,2 @@
-# National-LULC
+# National-Land use landCover based on ESRI High-Resolution LULC 10m 
+In this project, we will demonstrate the use of open data for national crop statistics. We will use google earth engine Cloud computing platform to make an  web application for easy used for  agricultural application. we will show juste 5 classes (e.g Build-up, Water,Grass, Flooded Vegetation and Crop). This application enables the display of land cover statistics for Senegal in 2020 using the results of the following publication (Karra, Kontgis, et al. "Global land use/land cover with Sentinel-2 and deep learning"). This workcan be extented for a global LULC map. However, one can use the new dynamics-World google LULC 10 m resolution to do smilar application. 
